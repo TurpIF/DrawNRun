@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/pt.gamerush2/!svn/ver/44/Network
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/pt.gamerush2/!svn/ver/5/Network/__init__.py
+END
+Protocol.py
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/pt.gamerush2/!svn/ver/1/Network/Protocol.py
+END
+Server.py
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/pt.gamerush2/!svn/ver/5/Network/Server.py
+END
+debug.py
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/pt.gamerush2/!svn/ver/6/Network/debug.py
+END
+Socket.py
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/pt.gamerush2/!svn/ver/1/Network/Socket.py
+END
+MyServer.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/pt.gamerush2/!svn/ver/44/Network/MyServer.py
+END
